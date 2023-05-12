@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_refresh"
+            android:icon="@drawable/ic_baseline_refresh"
+            android:title="@string/refresh"/>
+        <item
+            android:id="@+id/nav_adblock"
+            android:icon="@drawable/adblock"
+            android:title="@string/remove_ads"/>
+
+        <item
+            android:id="@+id/nav_terms_conditions"
+            android:icon="@drawable/ic_baseline_about_us"
+            android:title="@string/terms_condition"/>
+    </group>
+
+    <item
+        android:title="@string/communicate"
+        android:id="@+id/communicate"
+        app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_nav_baseline_share"
+                    android:title="@string/share_with_friends" />
+
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/ic_baseline_star_rate"
+                    android:title="@string/rate_app" />
+            </group>
+        </menu>
+
+    </item>
+</menu>

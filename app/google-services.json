@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719804962363",
+    "firebase_url": "https://daily-spiritual-path-default-rtdb.firebaseio.com",
+    "project_id": "daily-spiritual-path",
+    "storage_bucket": "daily-spiritual-path.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719804962363:android:eb9e8bd187d03e98422e1e",
+        "android_client_info": {
+          "package_name": "com.xora.cooperation.ryan.spiritualpath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719804962363-udmp09bgl24in2sbntp7fkf91dvk57u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhsiubwXI2ZYUEG93t6RGBlnyhO0uspqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719804962363-udmp09bgl24in2sbntp7fkf91dvk57u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

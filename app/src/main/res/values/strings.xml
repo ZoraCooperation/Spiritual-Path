@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Spiritual Path</string>
+    <string name="ad_attribution">Native Ad</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="company_name">Spiritual Path</string>
+    <string name="motto">Inspiring your dreams</string>
+    <string name="admob_app_id">ca-app-pub-7869039547426434~3320394726</string>
+    <string name="native_ad_id">ca-app-pub-7869039547426434/1237442277</string>
+    <string name="interstitial_ad_id">ca-app-pub-7869039547426434/5723482195</string>
+
+    <string name="test_interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="test_native_ad_id">ca-app-pub-3940256099942544/2247696110</string>
+
+    <string name="communicate">Communicate</string>
+    <string name="community">Community</string>
+    <string name="terms_condition">Terms and Conditions</string>
+    <string name="back">Back</string>
+    <string name="icon">Icon</string>
+    <string name="app_motto">Spiritual Path, We are all special in our own way the moment we choose to be.</string>
+    <string name="spiritual_quote">SpiritualQuotes</string>
+    <string name="likes">0 Like</string>
+    <string name="downloads">0 Download</string>
+    <string name="shares">0 Share</string>
+    <string name="rate_app">Rate app</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="refresh">Refresh</string>
+    <string name="wait">Please Wait</string>
+    <string name="refreshing">Preparing to refresh …</string>
+    <string name="exit">Confirm Exit?</string>
+    <string name="exit_btn">Exit</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="exit_confirmation">Are you sure you want to exit this application?</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About us</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="home">Home</string>
+    <string name="linear_list">List</string>
+</resources>
